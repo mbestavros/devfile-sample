@@ -27,4 +27,4 @@ For constructing node_modules in the first build stage of Dockerfile, we use `np
 
 This stack is licensed under the [EPL 2.0](./LICENSE) license.
 
-## Bumping to create a new build
+## Bumping to create a new build again
